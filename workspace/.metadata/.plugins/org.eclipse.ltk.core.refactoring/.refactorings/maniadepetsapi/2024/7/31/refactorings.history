@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;InfoPet.java&apos; to &apos;com.belval.maniadepets.model.InfoPet.java&apos;&#x0D;&#x0A;- Original project: &apos;maniadepetsapi&apos;&#x0D;&#x0A;- Destination element: &apos;com.belval.maniadepets.model.InfoPet.java&apos;&#x0D;&#x0A;- Original element: &apos;com.belval.maniadepets.model.InfoPet.java&apos;" description="Copy compilation unit" destination="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.belval.maniadepets.model{InfoPet.java" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.belval.maniadepets.model{InfoPet.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1722469562961" units="1" version="1.0"/>
+</session>
